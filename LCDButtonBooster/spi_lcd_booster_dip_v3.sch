@@ -6882,6 +6882,8 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <wire x1="182.88" y1="-12.7" x2="182.88" y2="-25.4" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="VOUT"/>
 <junction x="22.86" y="5.08"/>
+<junction x="7.62" y="25.4"/>
+<junction x="104.14" y="71.12"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -7014,6 +7016,7 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <pinref part="RLED1" gate="G$1" pin="2"/>
 <wire x1="203.2" y1="15.24" x2="203.2" y2="33.02" width="0.1524" layer="91"/>
 <junction x="40.64" y="20.32"/>
+<junction x="7.62" y="20.32"/>
 </segment>
 </net>
 <net name="N$21" class="0">
@@ -7090,6 +7093,7 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <junction x="165.1" y="-12.7"/>
 <pinref part="LEDSW" gate="G$1" pin="1"/>
 <wire x1="165.1" y1="35.56" x2="187.96" y2="35.56" width="0.1524" layer="91"/>
+<junction x="165.1" y="35.56"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -7281,6 +7285,7 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <junction x="-5.08" y="5.08"/>
 <pinref part="IC1" gate="G$1" pin="VIN"/>
 <junction x="-2.54" y="5.08"/>
+<junction x="0" y="-15.24"/>
 </segment>
 </net>
 <net name="N$26" class="0">
